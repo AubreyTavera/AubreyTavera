@@ -1,26 +1,23 @@
 
-👋 Hello! I'm Aubrey Tavera
+# 👋 Hello! I'm Aubrey Tavera
 I'm still learning and practicing coding.
 I am currently taking the BS Information Technology program.
 
 ---
 
-🎓
- Education
+# 🎓 Education
 BS Information Technology
 New Era University
 2024 – Present
 
 ---
 
-📜
- Certifications
+# 📜 Certifications
 SQL and Relational Databases 101
 
 ---
 
-🛠
- Skillsets
+# 🛠Skillsets
 Programs: HTML, CSS, Java
 IBM DB0101EN Certificate | Cognitive Class
 Cognitive Class acknowledges the following student accomplishment for SQL and Relational Databases 101
