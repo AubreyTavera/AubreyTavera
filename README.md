@@ -26,7 +26,9 @@ New Era University
 ---
 
 # 🛠Skillsets
-Programs: HTML, CSS, Java
+Programming :  Java, Javascript
+Databases: IBM DB2 Cloud
+Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
  
 <!--
